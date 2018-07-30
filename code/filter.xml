@@ -1,0 +1,28 @@
+<root> 
+	<path>安装脚本</path>
+	<path>策略上传</path>
+	<path>定时任务策略导出</path>
+	<path>定时任务策略导入</path>
+	<path>服务启动用户会话程序</path>
+	<path>过滤模块</path>
+	<path>计划任务执行调度</path>
+	<path>进程监控服务</path>
+	<path>客户端UControl</path>
+	<path>皮肤库</path>
+	<path>屏幕捕捉</path>
+	<path>任务调度</path>
+	<path>日志上传</path>
+	<path>实时备份通信</path>
+	<path>数据库操作</path>
+	<path>文件定时备份打包</path>
+	<path>文件监控过滤驱动</path>
+	<path>文件树</path>
+
+	<path>系统恢复</path>
+	<path>系统信息获取</path>
+	<path>性能获取</path>
+	<path>隐藏进程</path>
+	<path>远程桌面</path>
+	<path>自动保存</path>
+	<path>自动更新</path>
+</root>
